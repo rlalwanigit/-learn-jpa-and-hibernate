@@ -16,7 +16,7 @@ public class CourseCommandLineRunner implements CommandLineRunner {
 //	@Autowired
 //	private CourseJpaRepository repository;
 
-//Spring Data JPA Repository
+//Spring Data JPA Repository 
 	@Autowired
 	private CourseSpringDataJpaRepository repository;
 
